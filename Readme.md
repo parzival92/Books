@@ -1,3 +1,3 @@
-# Azure SRE
+# SRE
 
-(https://docs.microsoft.com/en-us/azure/site-reliability-engineering/)
+[Azure SRE Docs](https://docs.microsoft.com/en-us/azure/site-reliability-engineering/)
